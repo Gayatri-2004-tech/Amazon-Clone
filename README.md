@@ -1,2 +1,32 @@
 # Amazon Clone
-# Amazon Landing Page Clone  A responsive front-end clone of the **Amazon** landing page built using **HTML** and **CSS**. This project recreates the look and feel of Amazon’s homepage, focusing on modern UI design, structured layout creation, responsive sections, navigation bar design, product showcase cards, banner sections, and footer styling.  The project was created to strengthen front-end development skills by practicing **semantic HTML structure**, **CSS styling**, **flexbox/grid layouts**, **responsive web design**, and building real-world website interfaces.  ### Tech Stack  * HTML5 * CSS3  ### Features  * Responsive navigation bar * Hero/banner section * Product category cards * Styled search bar * Footer section * Clean and user-friendly UI  This project serves as a beginner-friendly front-end development practice project and demonstrates the fundamentals of recreating real-world website designs using only HTML and CSS.
+
+A front end clone of the Amazon home page built using HTML and CSS.
+
+## About the Project
+
+This project is a recreation of the Amazon home page developed to practise front end web development concepts such as HTML structure, CSS styling, Flexbox and responsive layouts.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+
+## Features
+
+- Amazon inspired navigation bar
+- Search bar
+- Navigation menu
+- Product sections
+- Product cards
+- Promotional sections
+- Footer section
+- Responsive layout
+
+## Project Structure
+
+Amazon-Clone/
+│
+├── index.html
+├── style.css
+├── images/
+└── README.md
